@@ -15,6 +15,6 @@
 	</style>
 </head>
 <body>
-    <h1>My First Project <?php echo "Hello World"; ?></h1>
+    <h1>My First Project Git Deploy <?php echo "Hello World"; ?></h1>
 </body>
 </html>
