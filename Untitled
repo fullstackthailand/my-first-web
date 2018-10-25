@@ -1,0 +1,7 @@
+####### Sanity Test #####
+
+#### TrueID SMS #####
+*871*4#
+
+
+https://sso.trueid.net/api/proxyAPI.php?method=loginAll&app_id=1&secret=a42ca3848f9dd9995fedeb93ebf97805&account=0949397463&type=web&password=MTExMTExMTE=
