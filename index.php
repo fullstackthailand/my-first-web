@@ -15,6 +15,10 @@
 	</style>
 </head>
 <body>
+<<<<<<< HEAD
     <h1>My First Code <?php echo "Hello World"; ?></h1>
+=======
+    <h1>My First Project Git Deploy <?php echo "Hello World"; ?></h1>
+>>>>>>> 63c6aaba87094a1d90228a56eff32f0e125ec9b6
 </body>
 </html>
