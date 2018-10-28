@@ -16,6 +16,6 @@
 </head>
 <body>
    XXX
-    <h1>My First Code <?php echo "Hello World"; ?></h1>
+    <h1>Finish My First Code <?php echo "Hello World"; ?></h1>
 </body>
 </html>
